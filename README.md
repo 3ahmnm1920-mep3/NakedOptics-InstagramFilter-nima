@@ -16,6 +16,19 @@ Everyone will build their own individual filter with different effects on the pr
 The main idea of this project is as already said to create an Instagram filter with the help of Spark AR - a software developed by facebook where you can program inteactive augmented reality experiences.
 A 3D model made in Autodesk Maya of Naked Optics' ski glasses will be the base where we will create different effects with Spark AR.
 
+Some effect ideas:
+
+* reflection of mountains 
+* wind (sound)
+* snow particles
+* sun reflection/ lens flares
+* stripes that move along the headband
+* ski ramp background
+* neon/ light effect on the edges of the glasses
+* thermographic camera/ color effect?
+
+
 ## References
 
-* https://youtu.be/LDbmH8pyjjY
+* https://www.youtube.com/watch?v=LDbmH8pyjjY
+* https://www.youtube.com/watch?v=_B0G1jIaxMA
