@@ -30,5 +30,7 @@ Some effect ideas:
 
 ## References
 
+* https://sparkar.facebook.com/ar-studio/
 * https://www.youtube.com/watch?v=LDbmH8pyjjY
 * https://www.youtube.com/watch?v=_B0G1jIaxMA
+* https://www.youtube.com/watch?v=lxF-ecbkbr4
