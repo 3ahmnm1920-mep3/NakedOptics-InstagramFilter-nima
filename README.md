@@ -38,11 +38,14 @@ Also some reflections of snowy mountains or just the scenery of the ski slope in
 
 Number two will be vintage or cyberpunk themed with neon lights as outlines of the glasses or just over the whole screen and a number of neon texts over the glasses which say "NakedOptics"
 
+## Visuals/ Scribbles
 
-  
+<div>
+<img src = "./Images/Scribble1.jpg" width = "500">
 
+<img src = "./Images/Scribble2.jpg" width = "500">
+</div>
 
-## Visuals
 
 
 
