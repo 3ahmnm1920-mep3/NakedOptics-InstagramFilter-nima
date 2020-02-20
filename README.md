@@ -41,11 +41,11 @@ Number two will be vintage or cyberpunk themed with neon lights as outlines of t
 ## Visuals/ Scribbles
 
 <div>
-<img src = "./Images/Scribble1.jpg" width = "50">
+<img src = "./Images/Scribble1.jpg" width = "100">
 
-<img src = "./Images/Scribble2.jpg" width = "50">
+<img src = "./Images/Scribble2.jpg" width = "100">
 
-<img src = "./Images/Scribble3.jpg" width = "50">
+<img src = "./Images/Scribble3.jpg" width = "100">
 </div>
 
 
