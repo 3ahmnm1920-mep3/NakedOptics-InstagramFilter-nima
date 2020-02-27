@@ -62,3 +62,4 @@ Number two will be vintage or cyberpunk themed with neon lights as outlines of t
 * https://www.youtube.com/watch?v=e6QdecFqUCA
 * https://www.youtube.com/watch?v=JahuumWeWbI
 * https://www.youtube.com/watch?v=TnWrJoPCfco
+* https://sparkar.facebook.com/ar-studio/learn/documentation/building-your-scene/textures-and-materials/
