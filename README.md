@@ -49,9 +49,9 @@ Number two will be vintage or cyberpunk themed with intensive colors and a neon 
 
 <img src = "./Images/moodboard.jpg" width = "200">
 
-<img src = "./Images/Filter1.jpg" width = "200">
+<img src = "./Images/Filter1.JPG" width = "200">
 
-<img src = "./Images/Filter2.jpg" width = "200">
+<img src = "./Images/Filter2.JPG" width = "200">
 </div>
 
 
