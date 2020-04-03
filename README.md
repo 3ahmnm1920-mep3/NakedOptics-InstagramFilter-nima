@@ -34,9 +34,9 @@ The first filter should be more natural to give the user a quick overview of how
 The two different styles in detail:
 
 Number one will have some snow particles to give the scene a winter feeling.
-Also some reflections of snowy mountains or just the scenery of the ski slope in the glasses will be part of this filter.
+Also the scenery of the ski slope or some mountains in the background will be part of this filter.
 
-Number two will be vintage or cyberpunk themed with neon lights as outlines of the glasses or just over the whole screen and a number of neon texts over the glasses which say "NakedOptics"
+Number two will be vintage or cyberpunk themed with intensive colors and a neon text that moves over the glasses which says "NakedOptics"
 
 ## Visuals/ Scribbles
 
@@ -48,9 +48,24 @@ Number two will be vintage or cyberpunk themed with neon lights as outlines of t
 <img src = "./Images/Scribble3.jpg" width = "200">
 
 <img src = "./Images/moodboard.jpg" width = "200">
+
+<br>
+
+<img src = "./Images/Filter1.jpg" width = "200">
+
+<img src = "./Images/Filter2.jpg" width = "200">
 </div>
 
 
+## Software
+
+* Spark AR Studio v84.0.0.16.245
+
+
+## External Resources
+
+The model as well as some of the textures of the glasses are from 3ahmnm1920-mep3 /
+NakedOptics-InstagramFilter-GRUW on github
 
 
 ## References
